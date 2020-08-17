@@ -1,6 +1,6 @@
-# ZSH Theme - classyTouch
-# Author: Yaris Alex Gutierrez <yarisgutierrez@gmail.com>
-# Prompt is the Oh-my-zsh version of user Graawr's 'Classy Touch' themes on http://dotshare.it 
+# ZSH Theme - classyNord
+# Author: Yaris Alex Gutierrez <yarisgutierrez@gmail.com>; modified by Vince Blake
+# Prompt is a modified Oh-my-zsh version of user Graawr's 'Classy Touch' themes on http://dotshare.it
 # %{$FG[069]%}TEXTHERE%{$reset_color%}%
 
 local current_dir='%{$FG[069]%}[%{$reset_color%}%{$FG[195]%}%~% %{$FG[069]%}]%{$reset_color%}'
